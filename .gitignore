@@ -1,0 +1,5 @@
+.DS_Store
+deployment/build-dist/
+source/console/build/
+node_modules
+package-lock.json

@@ -1,0 +1,10 @@
+execution:
+  - concurrency: 1
+    hold-for: 1s
+    ramp-up: 1s
+    scenario: sample
+
+scenarios:
+  sample:
+    requests:
+    - https://example.com/
